@@ -44,7 +44,7 @@ I specialize in developing reliable software that powers business operations, pa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### DevOps & En
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
