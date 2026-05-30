@@ -7,6 +7,7 @@ I'm a Full-Stack Developer from the Philippines with 8+ years of experience buil
 I specialize in developing reliable software that powers business operations, payment systems, wallet solutions, third-party integrations, and modern web applications.
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=melvstein&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 
@@ -58,7 +59,7 @@ I specialize in developing reliable software that powers business operations, pa
 - Maintained and modernized legacy applications
 - Designed and optimized RESTful APIs
 - Integrated third-party services and external platforms
-- Developed financial features including wallet and transfer systems
+- Developed financial features, including wallet and transfer systems
 - Implemented automated testing with PHPUnit and Laravel Dusk
 - Managed Docker-based deployments
 - Optimized database performance and reliability
@@ -85,10 +86,8 @@ I specialize in developing reliable software that powers business operations, pa
 
 ## Current Interests
 
-- Software Architecture
 - Backend Engineering
 - System Design
-- Cloud Technologies
 - API Development
 - Performance Optimization
 - Full-Stack Web Development
@@ -104,7 +103,7 @@ Modern developer portfolio built with:
 - Next.js
 - TypeScript
 - Tailwind CSS
-- Three.js
+- React Three Fiber
 
 🔗 Portfolio: https://melvstein.vercel.app
 
@@ -128,3 +127,5 @@ Modern developer portfolio built with:
 ---
 
 > Building scalable software, solving complex problems, and continuously improving through technology.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=melvstein&theme=default)](https://git.io/streak-stats)
