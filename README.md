@@ -79,7 +79,8 @@ Modern developer portfolio built with:
 - 💻 GitHub: https://github.com/melvstein
 - 🔗 LinkedIn: https://linkedin.com/in/melvstein
 - 📧 Email: melvinbayogo@gmail.com
-- ☕ Support Me: https://ko-fi.com/melvstein
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7O520H2RR)
 
 ---
 
