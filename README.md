@@ -10,9 +10,9 @@ I specialize in developing reliable software that powers business operations, pa
 
 ## About Me
 
-- 💼 Full-Stack Developer at Vtimetech Inc.
+- 💼 Software Developer at Vtimetech Inc.
 - 🌱 Continuously learning software architecture, cloud technologies, and scalable system design
-- 🔧 Passionate about backend engineering and API development
+- 🔧 Passionate software developer focused on backend and frontend engineering, with experience in building and integrating APIs.
 - 🚀 Experienced in both legacy modernization and greenfield development
 - 🎯 Focused on building maintainable, performant, and scalable applications
 
