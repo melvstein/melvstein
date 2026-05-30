@@ -52,49 +52,6 @@ I specialize in developing reliable software that powers business operations, pa
 
 ---
 
-## Professional Experience
-
-### Software Developer
-**Vtimetech Inc.** (2021 - Present)
-
-- Maintained and modernized legacy applications
-- Designed and optimized RESTful APIs
-- Integrated third-party services and external platforms
-- Developed financial features, including wallet and transfer systems
-- Implemented automated testing with PHPUnit and Laravel Dusk
-- Managed Docker-based deployments
-- Optimized database performance and reliability
-- Provided production support and troubleshooting
-
-### Freelance Web Developer
-**Self-Employed** (2019 - 2021)
-
-- Delivered custom web applications for clients
-- Built responsive and user-friendly interfaces
-- Developed and integrated REST APIs
-- Managed MySQL, PostgreSQL, and MongoDB databases
-- Handled complete project lifecycle from planning to deployment
-
-### IT Assistant / Full Stack Developer
-**Corporate Holdings Management, Inc.** (2017 - 2019)
-
-- Developed internal web systems and business applications
-- Provided IT support and infrastructure maintenance
-- Built responsive user interfaces
-- Managed databases and deployments
-
----
-
-## Current Interests
-
-- Backend Engineering
-- System Design
-- API Development
-- Performance Optimization
-- Full-Stack Web Development
-
----
-
 ## Featured Projects
 
 ### Portfolio Website
