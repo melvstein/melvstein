@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=melvstein&label=Profile%20views&color=0e75b6&style=flat)
+
 # Hi, I'm Melvin Justine Bayogo 👋
 
 ### Full-Stack Developer | Backend-Focused Engineer
@@ -7,7 +9,6 @@ I'm a Full-Stack Developer from the Philippines with 8+ years of experience buil
 I specialize in developing reliable software that powers business operations, payment systems, wallet solutions, third-party integrations, and modern web applications.
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=melvstein&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me
 
@@ -111,9 +112,7 @@ Modern developer portfolio built with:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvstein&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvstein&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=melvstein&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
@@ -127,5 +126,3 @@ Modern developer portfolio built with:
 ---
 
 > Building scalable software, solving complex problems, and continuously improving through technology.
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=melvstein&theme=default)](https://git.io/streak-stats)
