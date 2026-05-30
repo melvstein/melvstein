@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Melvin Justine 👋
 
-<!--
-**melvstein/melvstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer from the Philippines 🇵🇭
 
-Here are some ideas to get you started:
+I build scalable web applications, REST APIs, payment integrations, gaming platform integrations, and modern user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- PHP
+- Laravel
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+### Database
+- MySQL
+- PostgreSQL
+- Redis
+
+## Current Focus
+
+- Building production-grade applications
+- Backend architecture and API design
+- Modern frontend development
+- Cloud and DevOps practices
+
+## Portfolio
+
+🌐 https://melvstein.vercel.app
+
+## Connect With Me
+
+- GitHub: https://github.com/melvstein
+- LinkedIn: https://linkedin.com/in/your-linkedin
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvstein&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvstein&layout=compact)
